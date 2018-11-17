@@ -1,0 +1,105 @@
+body{
+    background-color: rgb(82, 82, 82);
+    border-style: solid;
+    border-width: 5px;
+    color: white;
+    border-color: rgb(116, 116, 116); 
+    margin-right: 15%;
+    margin-left: 15%;
+    margin-block-start: 5%;
+    margin-block-end: 5%;
+    padding: 8%;
+    padding-top: 3%;
+    padding-bottom: 3%; 
+}
+
+div{
+    border-style: solid;
+    color: gainsboro;
+    border-width: 1px;
+    border-right-width: 0px;
+    border-left-width: 0px;
+    padding: 3%;
+    margin-block-start: 5%;
+    margin-block-end: 5%;
+    overflow: auto;
+    
+    }
+
+h1 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+    font-weight: 580;
+}
+
+h3.titles {
+    text-align: left;
+    font-size: 25px;
+    font-weight: bold;
+    color: white;
+}
+
+h4 {
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.bullets {
+    font-weight: bold;
+    color: white;
+    font-size: 17px;
+    
+}
+
+.platforms {
+    font-size: 17px;
+    font-weight: initial;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+
+span.links {
+    font-size: 20px;
+}
+
+p.par {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: white;
+    line-height: 150%; 
+
+
+}
+
+li{
+    margin-block-end: -1.5%;
+}
+
+
+img.profile{
+        float:right;
+        width: 300px;
+        border: solid;
+        border-color: rgb(87, 87, 87);
+        border-width: 4px;
+        outline-style: solid;
+        outline-width: 1px;
+        outline-color: gainsboro;
+        
+}
+
+a:link {
+    color: rgb(24, 247, 187);
+
+    
+}
+
+a:visited{
+    color:rgb(58, 255, 202);  
+}
